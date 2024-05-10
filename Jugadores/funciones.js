@@ -4,7 +4,7 @@ class CJugador {
     }
 }
 const jugadores = [
-    new CJugador("Fábio1", "G", 43, 1.88, 86, "Brasil"),
+    new CJugador("Fabio1", "G", 43, 1.88, 86, "Brasil"),
     new CJugador("Marlon4", "D", 28, 1.83, 78, "Brasil"),
     new CJugador("Marcelo12", "D", 35, 1.73, 72, "Brasil"),
     new CJugador("Nino33", "D", 26, 1.88, 82, "Brasil"),
